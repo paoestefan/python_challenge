@@ -1,0 +1,5 @@
+Total months : 86
+Total:38382578
+Average change : -2288.2
+Greatest increase in profits:1170593
+Greatest decrease in losses:-1196225
